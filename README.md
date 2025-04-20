@@ -1,1 +1,2 @@
-# practising leetcode game
+# Practising leetcode game
+**javascript version**
