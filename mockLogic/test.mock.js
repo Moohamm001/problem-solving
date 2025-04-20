@@ -1,0 +1,2 @@
+var isJump =  function(nums){
+}
