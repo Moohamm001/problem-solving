@@ -1,5 +1,4 @@
 var guessNumber = function(n) {
-    var g = guess(n)
     var l = 0
     var r = n
     while(l<r){
